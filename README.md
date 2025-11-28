@@ -5,5 +5,4 @@ The project demonstrates the complete ML workflow from data preprocessing to mod
 
 ---
 
-## 📸 Project Preview
-![Breast Cancer Classification](./image1.png)
+![Breast Cancer Classification](./portofolio3.png)
